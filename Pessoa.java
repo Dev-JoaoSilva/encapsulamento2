@@ -1,4 +1,4 @@
-public class Conta {
+public class Pessoa {
 
     private String nome;
     private int idade;
